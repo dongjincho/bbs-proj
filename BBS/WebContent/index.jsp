@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>index page</title>
+<title>index page1</title>
 </head>
 <body>
 	<script>
